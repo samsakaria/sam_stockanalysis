@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 pd.set_option('display.max_columns', None)
 
 # Email function
-def send_email(subject, body, receiver_email="jamesannadurai1608@gmail.com"):
+def send_email(subject, body, receiver_email="sakaria2608@gmail.com"):
     sender_email = "sakariajasus11@gmail.com"
     password = "cktd xdza bbiw cthn"  # Use env variable in production
 
